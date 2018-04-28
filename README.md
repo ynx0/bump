@@ -35,7 +35,7 @@ The Bump source files contain both ES5 and ES6 versions of the
 code.
 
 Next, create a new instance of Bump at the beginning of your program.
-Supply the renderer you want to use in the constructor (the defautl is `PIXI`) like this:
+Supply the renderer you want to use in the constructor (the default is `PIXI`) like this:
 ```
 b = new Bump(PIXI);
 ```
